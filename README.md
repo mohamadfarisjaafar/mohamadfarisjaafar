@@ -2,7 +2,7 @@
 Welcome to my GitHub corner! I’m a tech enthusiast and developer who thrives on turning ideas into reality. Whether it's building applications, optimizing backend processes, or exploring the latest tech trends, I’m all about creating efficient, innovative solutions that make a difference.
 
 🚀 What I'm Currently Up To
-🌱 Learning: Deepening my understanding of Machine Learning and Data Science
+🌱 Learning: Deepening my understanding of Artificial Intelligence, Data Science and all AI areas including LLM
 ☁️ Cloud Enthusiast: Experimenting with AWS, GCP, and Azure to enhance my cloud skill set
 ⚙️ DevOps: Building a streamlined workflow with Docker, Kubernetes, and CI/CD practices
 💻 Technologies & Tools
